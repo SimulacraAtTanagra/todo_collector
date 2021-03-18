@@ -6,7 +6,6 @@ Created on Tue Mar 16 14:07:28 2021
 """
 from typing import List
 import os
-import sys
 
 def get_py_files(path):
     #find all py files, even if there is nesting
